@@ -13,7 +13,7 @@ function preload(){
   polygon_img=loadImage("polygon.png");
 }
 function setup() {
-  createCanvas
+  createCanvas(800,400)
 
 
   engine = Engine.create();
